@@ -1,2 +1,2 @@
 # Створення додатка «Weather App»
-![Weather](https://user-images.githubusercontent.com/57329027/111864316-d3537c00-8968-11eb-9dd7-243b8d6525fc.png)
+![WeatherAppPicture](https://user-images.githubusercontent.com/57329027/111864449-a5226c00-8969-11eb-922b-61139e6ec253.png)
