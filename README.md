@@ -7,7 +7,7 @@
 Створено за допомогою create-react-app.
 
 # Встановити
-> npm install
+# npm install #
 
 # Використання
 > npm start
