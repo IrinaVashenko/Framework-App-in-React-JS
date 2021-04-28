@@ -1,7 +1,5 @@
 # Створення додатка «TODO List App»
-![WeatherAppPicture](file cover - 1.png![image](https://user-images.githubusercontent.com/57329027/116400314-936a9900-a832-11eb-9509-15beac7a6b6d.png))
-
-
+![WeatherAppPicture](file cover - 1.png![Uploading image.png…])
 
 # Framework App 
 Створено за допомогою create-react-app.
