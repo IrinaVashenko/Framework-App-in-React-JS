@@ -1,5 +1,5 @@
 # Створення додатка «TODO List App»
-![WeatherAppPicture](https://c0.klipartz.com/pngpicture/262/968/gratis-png-lista-de-verificacion-iconos-de-computadora-casilla-de-verificacion-lista.png)
+![WeatherAppPicture](file cover - 1.png![image](https://user-images.githubusercontent.com/57329027/116400314-936a9900-a832-11eb-9509-15beac7a6b6d.png))
 
 
 
