@@ -4,12 +4,12 @@
 
 
 # Framework App 
-Створено за допомогою create-react-app.
 
-> Веб-додаток для iOS і Android люди можуть точно знати, коли очікувати зміни погодних умов.
-
-# Встановити
-> npm install
-
-# Використання
-> npm start
+### Краткая информация
+-------------------------
+```
+npx create-react framework
+cd projectreact
+npm start 
+```
+Если вы ранее устанавливали ```create-react-app``` глобально через ```npm install -g create-react-app```, мы рекомендуем вам удалить пакет с помощью npm ```uninstall -g create-react-app``` или,```yarn global remove create-react-app``` чтобы убедиться, что npx всегда использует последнюю версию.
