@@ -45,7 +45,7 @@ yarn create react-app 'app name'
 Он создаст каталог 'app name' внутри текущей папки.
 Внутри этого каталога он сгенерирует исходную структуру проекта и установит транзитивные зависимости:
 ```
-my-app
+'app name'
 ├── README.md
 ├── node_modules
 ├── package.json
