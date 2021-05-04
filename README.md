@@ -30,15 +30,15 @@ iravasenko$ node -v
 
 Чтобы создать новое приложение, вы можете выбрать один из следующих способов:
 
-#####npx
+##### npx
 ```
 npx create-react-app 'app name'
 ```
-#####npm
+##### npm
 ```
 npm init react-app 'app name'
 ```
-#####yanr
+##### yanr
 ```
 yarn create react-app 'app name'
 ```
