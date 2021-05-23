@@ -82,6 +82,7 @@ cd 'app name'
 > Для подробного изучения `React.js`, переходите по этой ссылки [React](https://www.taniarascia.com/getting-started-with-react/), где вы создадите приложение в React с нуля, попутно изучая состояние, свойства и компоненты. 
 ---
 💡 Можете зайти по этой ссылки и посмотреть my app [Framework](https://laughing-swartz-45126a.netlify.app)
+
 ---
 🎥 Обзор приложения [Watch overview(partone)](https://user-images.githubusercontent.com/57329027/119260989-eccdaa00-bbdd-11eb-9193-f04e1beaaa1b.mp4), [Watch overview(parttwo)](https://user-images.githubusercontent.com/57329027/119261073-5fd72080-bbde-11eb-9243-992cde01ded4.mp4).
 
