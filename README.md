@@ -65,6 +65,7 @@ yarn create react-app 'app name'
     └── setupTests.js 
 ```
 Если вы посмотрите на структуру проекта, вы увидите `/public` и `/src` каталог, с регулярным `node_modules`, `.gitignore`, `README.md` и `package.json`.
+`/src` - каталог будет содержать весь наш код React.
 
 После завершения установки вы должны открыть файл, где находится ваш проект:
 ```sh
