@@ -62,7 +62,8 @@ yarn create react-app 'app name'
     ├── index.js
     ├── logo.svg
     └── serviceWorker.js
-    └── setupTests.js
+    └── setupTests.js   
+Если вы посмотрите на структуру проекта, вы увидите '/public' и /'src' каталог, с регулярным'node_modules', '.gitignore', 'README.md' и 'package.json'.
 ```
 После завершения установки вы должны открыть файл, где находится ваш проект:
 ```sh
