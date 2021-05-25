@@ -87,9 +87,7 @@ cd 'app name'
 💡 Можете зайти по этой ссылки и посмотреть my app [Framework](https://peaceful-noyce-d1f81e.netlify.app)
 
 ---
-🎥  Обзор приложения [Watch overview(partone)](https://user-images.githubusercontent.com/57329027/119260989-eccdaa00-bbdd-11eb-9193-f04e1beaaa1b.mp4), [Watch overview(parttwo)](https://user-images.githubusercontent.com/57329027/119261073-5fd72080-bbde-11eb-9243-992cde01ded4.mp4).
 
----
 
 
 
