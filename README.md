@@ -13,7 +13,7 @@ npx create-react framework
 cd projectreact
 npm start 
 ```
-Если вы ранее устанавливали ```create-react-app``` глобально через ```npm install -g create-react-app```, мы рекомендуем вам удалить пакет с помощью npm ```uninstall -g create-react-app``` или,```yarn global remove create-react-app``` чтобы убедиться, что npx всегда использует последнюю версию.
+Если вы ранее устанавливали ```create-react-app``` глобально через ```npm install -g create-react-app```, рекомендуеться вам удалить пакет с помощью npm ```uninstall -g create-react-app``` или,```yarn global remove create-react-app``` чтобы убедиться, что npx всегда использует последнюю версию.
 
 Затем откройте http://localhost:3000/, чтобы увидеть ваше приложение.
 Когда вы будете готовы, создайте миниатюрный пакет с `npm run build`.
